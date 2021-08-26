@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mommy-frontend",
+    "slug": "mommy-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mommy-frontend"
+}
